@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(94, 94, 242);
+}
+
+input{
+    width: 5vh;
+    height: 5vh;
+    font-size: x-large;
+}
+
+a{  
+  background-color: red;
+  color: black;  
+}
